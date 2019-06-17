@@ -1,0 +1,14 @@
+Package: com.b3astpwn.cylinder
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: Nothing
+Filename: /Cylinder.deb
+Size: 255488
+MD5sum: 1C0EEBE91F6E03FAEA96218DADF8F4CC
+SHA1: 8EE421D677DF4EBF70B1F39F58E3FF9D3B831E1A
+SHA256: 4294D05662D81B24BAE3625C4962EC6CFD85678F4066C4B580B151B555C8615F
+Section: Tweaks
+Description: Customize your Springboard Animations with Cylinder. Thanks to Reed Weichler
+Author: B3astpwn <anshsyal@gmail.com>
+Name: Cylinder
