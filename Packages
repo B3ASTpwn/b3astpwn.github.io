@@ -5,10 +5,25 @@ Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
 Depends: Nothing
 Filename: /Cylinder.deb
 Size: 255488
-MD5sum: 1C0EEBE91F6E03FAEA96218DADF8F4CC
-SHA1: 8EE421D677DF4EBF70B1F39F58E3FF9D3B831E1A
-SHA256: 4294D05662D81B24BAE3625C4962EC6CFD85678F4066C4B580B151B555C8615F
+MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
+SHA1: 8ee421d677df4ebf70b1f39f58e3ff9d3b831e1a
+SHA256: 4294d05662d81b24bae3625c4962ec6cfd85678f4066c4b580b151b555c8615f
 Section: Tweaks
 Description: Customize your Springboard Animations with Cylinder. Thanks to Reed Weichler
 Author: B3astpwn <anshsyal@gmail.com>
 Name: Cylinder
+
+Package: com.b3astpwn.appellancy11
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: Nothing
+Filename: /Appellancy [iOS 11].deb
+Size: 3709562
+MD5sum: 6ec175b926a05394b391c810408bf3cb
+SHA1: 79523110f5adf56077f433cd82d7e3b1baa65369
+SHA256: b41a15d7787c27cc4dd44bafa42c4081cfcc2b87d31268329c571674a541dfba
+Section: Tweaks
+Description: No need to pay $999 for an expensive iPhone. Appellancy adds FaceID to older devices. 
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: Appellancy [iOS 11]
