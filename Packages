@@ -27,3 +27,18 @@ Section: Tweaks
 Description: No need to pay $999 for an expensive iPhone. Appellancy adds FaceID to older devices. 
 Author: B3ASTpwn <anshsyalblogger@gmail.com>
 Name: Appellancy [iOS 11]
+
+Package: com.b3astpwn.gravity
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: Nothing
+Filename: /gravity.deb
+Size: 148142
+MD5sum: 71c8ea584147eabe2ee3803b95aea6fa
+SHA1: a7c4b89610e471c05d19d1449ba34aa257b99951
+SHA256: b5d08bd8dae545691da9018934848e59a8b6a451057892408a0e886210d1250c
+Section: Tweaks
+Description: Add gravity to your icons 
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: Gravity
