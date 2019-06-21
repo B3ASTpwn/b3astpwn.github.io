@@ -42,3 +42,18 @@ Section: Tweaks
 Description: Add gravity to your icons 
 Author: B3ASTpwn <anshsyalblogger@gmail.com>
 Name: Gravity
+
+Package: com.b3astpwn.jailprotect
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: Nothing
+Filename: /jailprotect.deb
+Size: 53168
+MD5sum: 593b42aeab259fd500e32f99ac598373
+SHA1: 13fb25c1cf226918aa38bec920ea7be458ec1e9b
+SHA256: e355f6cce24e85bd857541826927626a01a4a6336a45ba96f05402c99765d28a
+Section: Tweaks
+Description: Jailprotect is a Great Cydia tweak allowing you to bypass jailbreak detection for selected apps only.
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: Jailprotect

@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = JailProtectSettings;
+		cell = PSLinkCell;
+		detail = "JailProtectSettingsController";
+		icon = "icon.png";
+		isController = 1;
+		label = JailProtect;
+	};
+}
