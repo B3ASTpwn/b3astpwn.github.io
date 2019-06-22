@@ -72,3 +72,18 @@ Section: Tweaks
 Description: Anemone is a powerful theming engine for iOS 11 and above. Anemone makes your device look stunning. Thanks to Coolstar and others.
 Author: B3ASTpwn <anshsyalblogger@gmail.com>
 Name: Anemone
+
+Package: com.b3astpwn.homegesturelite
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: nothing
+Filename: /homegesturelite.deb
+Size: 4760
+MD5sum: a9134cf4e607be779df1917e32e34a28
+SHA1: 685c1ca7045d87cdd5a141a12025697b53295df0
+SHA256: 6e03e07f2dc9f67032195253b8c8c3e4d1863dd93ded2b4140cffca4a112c8f7
+Section: Tweaks
+Description: Get stunning iPhone X swipe gestures on any idevice.
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: HomeGesture Lite
