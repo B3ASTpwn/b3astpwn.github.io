@@ -57,3 +57,18 @@ Section: Tweaks
 Description: Jailprotect is a Great Cydia tweak allowing you to bypass jailbreak detection for selected apps only.
 Author: B3ASTpwn <anshsyalblogger@gmail.com>
 Name: Jailprotect
+
+Package: com.b3astpwn.anemone
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: SSH
+Filename: /anemone.deb
+Size: 1857818
+MD5sum: 528a922eb2c41c23c0240c53b685a18d
+SHA1: cdb3f85a2fac3dd8fd0fc05647e6e58fe4573c84
+SHA256: ea2200f6e0e93a1d5b7ee53bcbf46e5b6700a7706ecbf71842426df51a8ee6a0
+Section: Tweaks
+Description: Anemone is a powerful theming engine for iOS 11 and above. Anemone makes your device look stunning. Thanks to Coolstar and others.
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: Anemone
