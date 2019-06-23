@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>								<string>PSGiantIconCell</string>
+			<key>icon</key>								<string>BBHLogo.png</string>
+			<key>footerText</key>						<string>Version: v1.0</string>
+		</dict>
+		<dict>
+			<key>cell</key>								<string>PSGroupCell</string>
+			<key>label</key>							<string>Settings Panel</string>
+		</dict>
+		<dict>
+			<key>cell</key>								<string>PSSwitchCell</string>
+			<key>defaults</key>							<string>com.midkin.byebyehud</string>
+			<key>default</key>							<false/>
+			<key>key</key>								<string>tweakEnabled</string>
+			<key>label</key>							<string>Enabled</string>
+			<key>PostNotification</key>					<string>com.midkin.byebyehud.settingschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>								<string>PSLinkListCell</string>
+			<key>defaults</key>							<string>com.midkin.byebyehud</string>
+			<key>default</key>							<integer>0</integer>
+			<key>detail</key>							<string>PSListItemsController</string>
+			<key>key</key>								<string>chosenView</string>
+			<key>label</key>							<string>Choose View</string>
+			<key>PostNotification</key>					<string>com.midkin.byebyehud.settingschanged</string>
+			<key>validTitles</key>
+			<array>
+				<string>Minimal View</string>
+                <string>Bar View</string>
+                <string>Slider View</string>
+            </array>
+            <key>validValues</key>
+            <array>
+            	<integer>0</integer>
+                <integer>1</integer>
+                <integer>2</integer>
+            </array>
+        </dict>
+        <dict>
+			<key>cell</key>								<string>PSLinkListCell</string>
+			<key>defaults</key>							<string>com.midkin.byebyehud</string>
+			<key>default</key>							<integer>0</integer>
+			<key>detail</key>							<string>PSListItemsController</string>
+			<key>key</key>								<string>sliderDismissStyle</string>
+			<key>label</key>							<string>Slider View Dismiss Style</string>
+			<key>PostNotification</key>					<string>com.midkin.byebyehud.settingschanged</string>
+			<key>validTitles</key>
+			<array>
+				<string>Fade</string>
+                <string>Upwards</string>
+            </array>
+            <key>validValues</key>
+            <array>
+            	<integer>0</integer>
+                <integer>1</integer>
+            </array>
+        </dict>
+        <dict>
+			<key>cell</key>								<string>PSGroupCell</string>
+			<key>footerCellClass</key>					<string>PSFooterHyperlinkView</string>
+			<key>headerFooterHyperlinkButtonTitle</key>	<string>Created by midkin, twitter: @midkin</string>
+			<key>headerFooterHyperlinkButtonURL</key>	<string>http://twitter.com/midkin</string>
+			<key>footerHyperlinkRange</key>				<string>{28, 7}</string>
+		</dict>
+		<dict>
+			<key>cell</key>								<string>PSGroupCell</string>
+			<key>footerCellClass</key>					<string>PSFooterHyperlinkView</string>
+			<key>headerFooterHyperlinkButtonTitle</key>	<string>ByeByeHUD is considered to be a lite version of SmartVolumeControl, the most advanced volume controller ever made for iOS.
+
+It is however, a standalone Tweak which will help you get rid of the clunky stock volume HUD.</string>
+			<key>headerFooterHyperlinkButtonURL</key>	<string>http://cydia.saurik.com/package/com.midkin.smartvolumecontrol/</string>
+			<key>footerHyperlinkRange</key>				<string>{48, 18}</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>ByeByeHUD</string>
+</dict>
+</plist>

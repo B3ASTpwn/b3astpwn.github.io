@@ -87,3 +87,33 @@ Section: Tweaks
 Description: Get stunning iPhone X swipe gestures on any idevice.
 Author: B3ASTpwn <anshsyalblogger@gmail.com>
 Name: HomeGesture Lite
+
+Package: com.b3astpwn.byebyehud
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: nothing
+Filename: /byebyehud.deb
+Size: 60250
+MD5sum: d6588003de8d51a3b457e61a31211942
+SHA1: fcbbd64d05c37bf51de8e956dcc06895bff92c8a
+SHA256: dfa37a5ed06d6fd68967055aff65a269c80a93532e16b898df243ad319a4be3a
+Section: Tweaks
+Description: Get rid of that that ugly volume HUD. ByeByeHUD is an amazing tweak that vanishes the default iOS volume HUD and places a nice, minimalistic volume hud on the top of the screen.
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: ByeByeHUD
+
+Package: com.b3astpwn.lockglyphx
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: nothing
+Filename: /lockglyphx.deb
+Size: 91016
+MD5sum: 53691d11d2d8e205b1c9dc746ba94442
+SHA1: ed8537c40594c5c3654dc02563ab5f7300cecf04
+SHA256: 6d5b4ecc5b1456bc25e5fe4f07d0f4ee72005a684a8d7a2ddf21a42d4d7616f1
+Section: Tweaks
+Description: LockGlyphX adds the Apple Pay like animation on your lockscreen.
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: LockGlyphX
