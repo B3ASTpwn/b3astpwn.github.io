@@ -117,3 +117,18 @@ Section: Tweaks
 Description: LockGlyphX adds the Apple Pay like animation on your lockscreen.
 Author: B3ASTpwn <anshsyalblogger@gmail.com>
 Name: LockGlyphX
+
+Package: com.b3astpwn.exchangepass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: nothing
+Filename: /exchangepass.deb
+Size: 449851
+MD5sum: aa33835e7a2d7d76c887109de79c379c
+SHA1: 25d4a5623e5f14df3178073740094cc99750c2c0
+SHA256: 88749de355bc972e13dbb95cff48b85d5c80146bc5c135ef54216992489530f2
+Section: Tweaks
+Description: Bypass Exchange's Password !
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: ExchangePass

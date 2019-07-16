@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>height</key>
+			<integer>81</integer>
+			<key>icon</key>
+			<string>ExchangeHeader.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>footerText</key>
+			<string>⚠️ RESPRING to Apply Changes ⚠️
+* Might require two Resprings to clear the cache *</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Bypass Respring Passcode:
+- Bypasses entering the Passcode after a Respring
+- Resprings to the Springboard, not Lockscreen</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.itortrix.exchangepass</string>
+			<key>key</key>
+			<string>switch1</string>
+			<key>label</key>
+			<string>︎︎◉ Disable Passcode ◉</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.itortrix.exchangepass</string>
+			<key>key</key>
+			<string>switch2</string>
+			<key>label</key>
+			<string>︎︎	↳ Bypass Respring Passcode</string>
+		</dict>
+
+	 <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>footerText</key>
+			<string>Created by: thazsar © 2015-19
+
+"Take delight in the Lord, and He will give you the desires of your heart."
+Psalms 37:4</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>ExchangePass</string>
+</dict>
+</plist>
