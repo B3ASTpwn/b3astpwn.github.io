@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+      <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+   <key>footerAlignment</key>
+   <string>1</string>
+   <key>footerText</key>
+  <string>For Hide Badge in AppStore (iOS 10) option No Respring Needed!</string>
+    </dict>
+    <dict>
+<key>PostNotification</key> <string>com.cydiageek.abetterprivacyforwhatsapp.prefschanged</string>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.cydiageek.byebadges</string>
+      <key>key</key>
+      <string>kEnabled</string>
+      <key>label</key>
+      <string>Hide Badges</string>
+    </dict>
+ <dict>
+<key>PostNotification</key> <string>com.cydiageek.abetterprivacyforwhatsapp.prefschanged</string>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.cydiageek.byebadges</string>
+      <key>key</key>
+      <string>hsEnabled</string>
+      <key>label</key>
+      <string>Hide Badges only in Folders</string>
+    </dict>
+    <dict>
+<key>PostNotification</key> <string>com.cydiageek.abetterprivacyforwhatsapp.prefschanged</string>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.cydiageek.byebadges</string>
+      <key>key</key>
+      <string>pEnabled</string>
+      <key>label</key>
+      <string>Hide Updates Badge in AppStore</string>
+    </dict>
+<dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>label</key>
+      <string>Extras</string>
+      <key>footerAlignment</key>
+      <string>1</string>
+      <key>footerText</key>
+      <string>Apply option to make all the Badges Dark!</string>
+    </dict> 
+<dict>
+  <key>PostNotification</key> <string>com.cydiageek.byebadges.prefschanged</string>
+      <key>cell</key>
+      <string>PSSegmentCell</string>
+      <key>default</key>
+      <string>0</string>
+      <key>defaults</key>
+      <string>com.cydiageek.byebadges</string>
+      <key>key</key>
+      <string>zEnabled</string>
+      <key>validTitles</key>
+<array>
+      <string>Enable</string>
+      <string>Disable</string>
+</array>
+      <key>validValues</key>
+<array>
+      <string>0</string>
+      <string>1</string>
+</array>
+</dict>
+  <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>label</key>
+      <string>Take Change</string>
+      <key>footerAlignment</key>
+      <string>1</string>
+      <key>footerText</key>
+      <string>Respring to apply any Changes!</string>
+    </dict> 
+<dict>
+   <key>action</key>
+   <string>showRespringPrompt</string>
+   <key>cell</key>
+   <string>PSButtonCell</string>
+   <key>label</key>
+   <string>Respring</string>
+</dict>
+   <dict>
+   <key>cell</key>
+   <string>PSGroupCell</string>
+   <key>label</key>
+   <string>Twitter Developer/Repository/Donations</string>
+   <key>footerAlignment</key>
+   <string>1</string>
+   <key>footerText</key>
+   <string>ByeBadges © 2016 by Luca Geek (@CydiaGeek), enjoy it.
+
+Special thanks @OlyDJios and also @ca13ra1 and @Ziph0n for helping me with some stuff :)</string>
+  </dict>
+ <dict>
+ <key>cell</key>
+ <string>PSButtonCell</string>
+ <key>action</key>
+ <string>twitter</string>
+ <key>label</key>
+ <string>Follow me on Twitter</string>
+  </dict>
+<dict>
+ <key>cell</key>
+ <string>PSButtonCell</string>
+ <key>action</key>
+ <string>visitWebsite:</string>
+<key>footerAlignment</key>
+<string>1</string>
+<key>label</key>
+ <string>Add My Repo on Cydia</string>
+  </dict>
+<dict>
+	<key>action</key>
+	<string>payme</string>
+	<key>cell</key>
+	<string>PSButtonCell</string>
+	<key>label</key>
+	<string>Cheers a Beer 🍻</string>
+</dict>
+</array>
+  <key>title</key>
+  <string>ByeBadges</string>
+</dict>
+</plist>

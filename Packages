@@ -132,3 +132,33 @@ Section: Tweaks
 Description: Bypass Exchange's Password !
 Author: B3ASTpwn <anshsyalblogger@gmail.com>
 Name: ExchangePass
+
+Package: com.b3astpwn.byebadges
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: nothing
+Filename: /byebadges.deb
+Size: 40284
+MD5sum: 69750adf53ce7ba71125207ee6e57189
+SHA1: 4997d0ca37e1fe9cc980f1c686e408444b3a0f30
+SHA256: 98a7c9be84c63a4111a15abaa9d914897ee0f56cc80d1b30addc1381aab1d673
+Section: Tweaks
+Description: GoodBye to all App Badges
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: ByeBadges
+
+Package: com.b3astpwn.hidejb
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: nothing
+Filename: /hidejb.deb
+Size: 179376
+MD5sum: 519e773c3bbfa2af8625c45aba01c552
+SHA1: a199f6eb6ca8529a506047830d1943517742ad3d
+SHA256: 3160dca6db4bc6b9577c4df430a00e82be84f9c0ccdbf80c36859911319e504b
+Section: Tweaks
+Description: Hide Jailbreak Detection in certain apps.
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: HideJB
