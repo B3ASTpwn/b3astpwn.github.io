@@ -162,3 +162,33 @@ Section: Tweaks
 Description: Hide Jailbreak Detection in certain apps.
 Author: B3ASTpwn <anshsyalblogger@gmail.com>
 Name: HideJB
+
+Package: com.b3astpwn.peekaboo
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: nothing
+Filename: /peekaboo.deb
+Size: 22010
+MD5sum: ba846e5606401ce68e5c7f45b2f2b7e5
+SHA1: 881a2212a60688a2cb2cb1d54d53fca66fac359d
+SHA256: 9b75213bb95141d861f4b00af39356b2fc2bedd28ce1c8783c8b7a4dbfbd3b22
+Section: Tweaks
+Description: Get 3D/Haptic Touch on iPhones below iPhone 6S
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: Peek-a-Boo
+
+Package: com.b3astpwn.pulltorespring
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: nothing
+Filename: /pulltorespring.deb
+Size: 15492
+MD5sum: 9c4a1e77a40ca74cc5edb9991b40868c
+SHA1: 6e6a4cbfab8559e29ea3527bc45d56f3c0d4b83b
+SHA256: dad52ea85d17c4f84a33895ea1f9d4e725baef316953c0342d6cccd1b9a3045f
+Section: Tweaks
+Description: 
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: PullToRespring
