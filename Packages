@@ -189,6 +189,21 @@ MD5sum: 9c4a1e77a40ca74cc5edb9991b40868c
 SHA1: 6e6a4cbfab8559e29ea3527bc45d56f3c0d4b83b
 SHA256: dad52ea85d17c4f84a33895ea1f9d4e725baef316953c0342d6cccd1b9a3045f
 Section: Tweaks
-Description: 
+Description: Pull up settings to respring your iDevice
 Author: B3ASTpwn <anshsyalblogger@gmail.com>
 Name: PullToRespring
+
+Package: com.b3astpwn.xenhtml
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: B3ASTpwn <anshsyalblogger@gmail.com>
+Depends: nothing
+Filename: /xenhtml.deb
+Size: 1131632
+MD5sum: f316b00e2e09dd2baa4738b6e61365fd
+SHA1: 2d266d8894aa6fd50a98e9392183d85771d74d3e
+SHA256: d90e029d03c754a2e5e55c63f2ec2860d6f5099f69c1d64750bd1ae480c94872
+Section: Tweaks
+Description: Theme your device with XenHTML:-D
+Author: B3ASTpwn <anshsyalblogger@gmail.com>
+Name: XenHTML
